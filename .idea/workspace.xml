@@ -2,273 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca72892-1b6d-43f3-9f6f-2d2f13d59d5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build/AR/BackgroundTexture.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/BackgroundTexture.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/BackgroundTexture.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Camera.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Camera.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Camera.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Light.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Light.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Light.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/MagneticObject.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/MagneticObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/MagneticObject.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Planes.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Planes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Planes.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Points.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Points.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/Points.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/ShadowFloor.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/ShadowFloor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/ShadowFloor.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/calculations.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/calculations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/calculations.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/AR/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CubeTexture.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/build/CubeTexture.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CubeTexture.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/CubeTexture.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CubeTexture.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/CubeTexture.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExpoTHREE.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExpoTHREE.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExpoTHREE.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExpoTHREE.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExpoTHREE.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExpoTHREE.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loadAsync.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loadAsync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loadAsync.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaderClassForExtension.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaderClassForExtension.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaderClassForExtension.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/AMFLoader.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/AMFLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/AMFLoader.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/MTLLoader.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/MTLLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/MTLLoader.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/loadModelsAsync.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/loadModelsAsync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/loadModelsAsync.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/readAsStringAsync.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/loaders/readAsStringAsync.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/loaders/readAsStringAsync.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/loaders/readAsStringAsync.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resolveAsset.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resolveAsset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resolveAsset.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.watchmanconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Assets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Deliverfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Effects/SkyMaterial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Effects/VirtualBoyEffect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Effects/threex.toxic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/fastlane/Appfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/full_description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/images/daydream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/images/featureGraphic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/images/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/images/promoGraphic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/images/tvBanner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/short_description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/title.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/metadata/en-US/video.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/icons/android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/icons/expo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/icons/ios.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/icons/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/images/lava/cloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/images/lava/lavatile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/marker.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/3ds/portalgun/portalgun.3ds" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/3ds/portalgun/textures/color.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/3ds/portalgun/textures/normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/3mf/cube_gears.3mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/amf/rook.amf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/assimp/octaminator/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/assimp/octaminator/1C.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/assimp/octaminator/Octaminator.assimp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/assimp/octaminator/Octaminator_lowpoly_final.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/babylon/skull.babylon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins.mtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins_Body_D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins_Body_N.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins_Body_S.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins_Body_SP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/batman/B-AO_iOS_HERO_Bruce_Wayne_Batman_Arkham_Origins_DM_ENV.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/bvh/pirouette.bvh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/elf/Body_tex_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/elf/Face_tex_002_toObj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/elf/Hair_tex_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/elf/ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/elf/elf.dae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/stormtrooper/Stormtrooper_D.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/collada/stormtrooper/stormtrooper.dae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/draco/bunny.drc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/fbx/samba/dancing.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/gltf/robot.glb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/obj/ninja/ao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/obj/ninja/displacement.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/obj/ninja/ninjaHead_Low.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/obj/ninja/normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/pack/robo_pigeon.pack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/pcd/ascii/simple.pcd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/pcd/binary/Zaghetto.pcd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/ply/ascii/dolphins.ply" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/ply/binary/Lucy100k.ply" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/stl/ascii/pr2_head_pan.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/stl/binary/pr2_head_pan.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/vtk/bunny.vtk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/vtk/cube_ascii.vtp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/vtk/cube_binary.vtp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/vtk/cube_no_compression.vtp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/xfile/SSR06_Born2.x" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/xfile/texture/SSR06_Born2_bp_base.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/models/xfile/texture/SSR06_Born2_dif.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/nx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/ny.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/nz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/py.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/assets/skybox/pz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/LinkButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/List/Item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/List/Separator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/List/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/Navigator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/Page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/PermissionGuard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/StoreReviewButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/components/TouchableView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/constants/Colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/constants/Settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/flow-typed/react-native.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Preview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/app_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/copyright.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/description.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/keywords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/marketing_url.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/privacy_url.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/promotional_text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/release_notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/subtitle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/en-US/support_url.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/primary_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/primary_first_sub_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/primary_second_sub_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/demo_password.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/demo_user.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/email_address.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/first_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/last_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/review_information/phone_number.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/secondary_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/secondary_first_sub_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/secondary_second_sub_category.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/address_line1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/address_line2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/address_line3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/city_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/country.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/email_address.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/first_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/is_displayed_on_app_store.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/last_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/phone_number.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/postal_code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/state.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/metadata/trade_representative_contact_information/trade_name.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/1_ipadPro_1.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/1_iphone58_1.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/1_iphone6Plus_1.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/2_ipadPro_2.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/2_iphone58_2.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/2_iphone6Plus_2.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/3_ipadPro_3.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/3_iphone58_3.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/screenshots/en-US/3_iphone6Plus_3.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Basic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Face.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/HitTest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Image.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Measure/SizeText.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Measure/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Planes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/Points.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/RawData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/arSceneWithExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/AR/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/CubeTexture.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/AnaglyphExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/GlitchExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/ParallaxBarrierExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/RandomJunkNode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/ToxicExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/VignetteExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/VirtualBoyExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Effects/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Legacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/AmfLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/AssimpLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/BabylonLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/BvhLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/DaeLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/DaeRiggedLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/DracoLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/FbxLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/GltfLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/MsgpackLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/MtlLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/ObjLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/PcdBinaryLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/PlyBinaryLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/PlyLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/StlBinaryLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/StlLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/TdsLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/TmfLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/VtkLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/VtpLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/VtpNonCompressedLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/XLoaderExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Loaders/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Shaders/LavaExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Shaders/SkyExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Shaders/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/Simple.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/ThreeStage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/screens/sceneWithExample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/BackgroundTexture.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/Camera.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/Light.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/MagneticObject.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/Planes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/Points.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/ShadowFloor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/calculations.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AR/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CubeTexture.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/CubeTexture.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExpoTHREE.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExpoTHREE.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loadAsync.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaderClassForExtension.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaders/AMFLoader.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaders/MTLLoader.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaders/loadModelsAsync.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loaders/readAsStringAsync.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/loaders/readAsStringAsync.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resolveAsset.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suppressWarnings.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/suppressWarnings.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -282,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="360">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loaders/readAsStringAsync.ts">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/suppressWarnings.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="58" selection-start-column="58" selection-end-column="58" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -345,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/loaders/readAsStringAsync.ts" />
         <option value="$PROJECT_DIR$/src/ExpoTHREE.ts" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/suppressWarnings.ts" />
       </list>
     </option>
   </component>
@@ -431,12 +167,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557951447589</updated>
-      <workItem from="1557951449021" duration="4661000" />
+      <workItem from="1557951449021" duration="6293000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed incompatible dependencies.">
+      <created>1558000355782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558000355783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Move unimodules to peers.">
+      <created>1558005241817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558005241817</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4661000" />
+    <option name="totallyTimeSpent" value="6293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="2137" extended-state="0" />
@@ -453,10 +204,11 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32958436" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32958436" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32958436" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -510,6 +262,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed incompatible dependencies." />
+    <MESSAGE value="Move unimodules to peers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Move unimodules to peers." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/AR/BackgroundTexture.ts">
@@ -576,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/loaders/readAsStringAsync.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" selection-start-column="58" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/loaderClassForExtension.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -621,10 +371,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/loaders/readAsStringAsync.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="360">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/suppressWarnings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
