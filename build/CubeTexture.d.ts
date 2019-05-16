@@ -13,6 +13,6 @@ export default class CubeTexture extends THREE.CubeTexture {
     loadAsync: (options: {
         assetForDirection: ObjectOrFunction;
         directions?: string[] | undefined;
-    }) => Promise<void>;
+    }) => Promise<never>;
 }
 export {};

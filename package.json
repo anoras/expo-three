@@ -2,7 +2,7 @@
   "name": "expo-three",
   "version": "3.0.2-alpha.1",
   "sideEffects": true,
-  "description": "Utilities for using THREE.js on Expo",
+  "description": "Utilities for using THREE.js wtih Unimodules",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "homepage": "https://github.com/expo/expo-three#readme",
@@ -32,14 +32,13 @@
   "author": "Nikhilesh Sigatapu",
   "license": "MIT",
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.1-alpha.3",
     "color-temperature": "0.2.7",
-    "expo-asset-utils": "^1.0.0",
-    "three": "^0.102.1"
+    "three": "^0.102.1",
+    "react-native-unimodules": "^0.3.1",
+    "react-native": "*"
   },
   "peerDependencies": {
-    "expo": ">= 30.0.0",
-    "react-native": "*"
+    "expo": ">= 30.0.0"
   },
   "devDependencies": {
     "@types/three": "^0.93.22",
