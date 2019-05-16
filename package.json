@@ -33,7 +33,7 @@
   "license": "MIT",
   "dependencies": {
     "color-temperature": "0.2.7",
-    "three": "^0.102.1"
+    "three": "^0.102.1",
     "react-native-unimodules": "^0.3.1"
   },
   "peerDependencies": {
